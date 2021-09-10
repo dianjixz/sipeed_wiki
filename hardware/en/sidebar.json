@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "label": "Sipeed 硬件资料导航",
+            "file": "README.md"
+        },
+
+        {
+            "label": "Maix",
+            "file":"maix/readme.md"
+        },
+        {
+            "label": "MaixII",
+            "file":"maixII/readme.md"
+        },
+        {
+            "label": "LicheePi (Linux)",
+            "file":"lichee/readme.md"
+        },
+        {
+            "label": " Tang",
+            "file":"tang/readme.md"
+        },
+        {
+            "label": "Longon",
+            "file":"longan/readme.md"
+        }
+    ]
+}
